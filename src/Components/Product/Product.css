@@ -18,3 +18,7 @@
     border-radius: 3px;
     vertical-align: middle;
 }
+.main-btn:hover{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
