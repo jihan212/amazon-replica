@@ -1,0 +1,20 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 5px;
+}
+.product-img{
+    padding: 10px;
+    margin: 5px;
+}
+.main-btn{
+    background-color: rgb(240, 193, 75);
+    border-color: #a88734 #9c7e31 #846a29;
+    width: 150px;
+    height: 30px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}
